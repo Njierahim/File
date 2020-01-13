@@ -1,0 +1,3 @@
+Var a = “Hello Njie”;
+Console.log(a); 
+Function b ()
